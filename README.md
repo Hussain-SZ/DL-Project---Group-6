@@ -1,15 +1,14 @@
 # DL-Project---Group-6
 
 .
-├── Models/
-│   ├── 
-│   ├── 
-├── Notebooks/
-│   ├── Baseline.ipynb
-│   ├── Improvement-1a.ipynb
-│   ├── Improvement-1b.ipynb
-│   └── Improvement_2.ipynb
+├── Models/                     # Saved models and weights
+├── Notebooks/                 # Jupyter notebooks for experiments
+│   ├── Baseline.ipynb         # TwoBranchInceptionV3 using RGB + Lab channels
+│   ├── Improvement-1a.ipynb   # EfficientNet-B0 with 6-channel RGB-Lab input
+│   ├── Improvement-1b.ipynb   # 1a + advanced image augmentations
+│   └── improvement_2.ipynb    # 1b + CBAM attention modules and residual blocks
 └── README.md
+
 
 
 ## Tomato Leaf Disease Classification using Deep Learning
