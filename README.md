@@ -1,4 +1,4 @@
-# Color-Aware Tomato Leaf Disease Classification with EfficientNet
+# Color-Aware Tomato Leaf Disease Classification
 
 <pre>
 . 
