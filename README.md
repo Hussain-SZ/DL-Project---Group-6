@@ -1,6 +1,6 @@
 # DL-Project---Group-6
 
-<pre> ``` 
+<pre>
 . 
 ├── Models/ # Saved models and weights 
 ├── Notebooks/ # Jupyter notebooks for experiments 
@@ -9,7 +9,7 @@
 │ ├── Improvement-1b.ipynb# 1a + advanced image augmentations
 │ └── improvement_2.ipynb # 1b + CBAM attention modules and residual blocks 
 └── README.md 
-``` </pre>
+</pre>
 
 
 ## Tomato Leaf Disease Classification using Deep Learning
